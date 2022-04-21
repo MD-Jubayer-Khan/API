@@ -22,7 +22,7 @@ const displaySearchResult = meals => {
         </div>
       </div>`;
       searchResult.appendChild(div);
-        
+            
     });
 
 }
